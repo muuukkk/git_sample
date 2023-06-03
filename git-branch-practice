@@ -1,1 +1,9 @@
 git ブランチのpuracticeにファイルを追加したよ
+
+<<<<<<< HEAD
+localのマージを確認中
+
+git mergeの使い方学習中
+=======
+git pullの確認のため、サーバ側を直接編集したよ
+>>>>>>> efb2b777697db29ff70004ad6a4108ba02ea849a
